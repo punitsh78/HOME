@@ -1,0 +1,4 @@
+READ
+Oracle Responsys
+Mandrill
+RabbitMQ
